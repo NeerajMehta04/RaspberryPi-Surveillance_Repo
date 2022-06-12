@@ -7,4 +7,8 @@ Hardware Components used:
 2. Raspberry Pi Camera v1.3 (5MP, 1080p)
 3. MicroSd 32 GB
 4. Powe/Transfer cables
-5. .
+5. 
+6.
+7.
+8.
+
